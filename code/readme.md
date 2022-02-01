@@ -1,7 +1,6 @@
 # GAN Evaluation
 
 This Code folder contains the python scripts, which include the GAN Models.
-We implemented a TCN as well as LSTM GAN, but chose to only use TCN GANs based on preliminary results.
 
 ## Run via Docker
 
