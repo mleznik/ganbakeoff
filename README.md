@@ -2,9 +2,6 @@
 
 This repository provides the python code used for our research for our evaluation of different GAN architectures.
 
-We acknowledge support by the state of Baden-Württemberg through bwHPC
-and the German Research Foundation (DFG) through grant no INST 40/575-1 FUGG (JUSTUS 2 cluster).
-
 For demo purposes, we provide the code and configurations used to synthesise time series in our multi-class setup.
 
 ## Dependencies
