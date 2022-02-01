@@ -15,18 +15,18 @@ Once you have create an account and have the corresponding API-Key this API-Key 
 
 This repository contains these 3 folders:
 
-1. [Docker](https://omi-gitlab.e-technik.uni-ulm.de/aml/ganevaluation/-/tree/dev/Docker) 
+1. Docker
     - Files to create docker image to run our code
 
-2. [code](https://omi-gitlab.e-technik.uni-ulm.de/aml/ganevaluation/-/tree/dev/code)
+2. code
     - Code to train and evaluate the GAN models
 
-3. [data](https://omi-gitlab.e-technik.uni-ulm.de/aml/ganevaluation/-/tree/dev/data)
+3. data
     - Please enter the time series with anomalies to this data folder in order to utilize our approach.
 
 Lastly, we also provide Jupyter-Notebooks to explore our code / approach.
 
-4. [Notebooks](https://omi-gitlab.e-technik.uni-ulm.de/aml/ganevaluation/-/tree/dev/notebooks)
+4. Notebooks
 
 
 
